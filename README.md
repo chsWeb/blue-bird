@@ -25,9 +25,9 @@ Using the Amino extension for Chome to restore the Twitter Blue Bird logo
 @twitter-blue-logo.svg
 
 **https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.png**
-```<img src="https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.png" alt="" width="" height="" border="0" />```
+```<img src="https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.png" alt="" width="" height="" border="0" />```  
 <img src="https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.png" alt="" width="" height="" border="0" />
 
 **https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.svg**
-```<img src="https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.svg" alt="" width="" height="" border="0" />```
+```<img src="https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.svg" alt="" width="" height="" border="0" />```  
 <img src="https://github.com/chsWeb/blue-bird/blob/main/twitter-logo-32x32-blue-bird.svg" alt="" width="" height="" border="0" />
