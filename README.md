@@ -9,4 +9,4 @@ Using the Amino extension for Chome to restore the Twitter Blue Bird logo
 4. Choose Amino in
 
 
-![twitter-blue-logo](https://github.com/chsWeb/blue-bird/assets/873222/4ce7fbce-4c86-4541-9165-31492d159eeb)
+![twitter-blue-logo](https://github.com/chsWeb/blue-bird/assets/873222/twitter-blue-logo.svg)
